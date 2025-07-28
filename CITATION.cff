@@ -1,0 +1,14 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Athukorala
+  given-names: Rajitha
+- family-names: Afshar
+  given-names: Hadi
+- family-names: Cripps
+  given-names: Sally
+- family-names: Vervoort
+  given-names: R. Willem
+title:Rajitha-Athukorala/BHME_streamflow: "Where the Creeks Run Dry or Ten Feet High: A Probabilistic Approach to Stage Height Forecasting in Australia
+version: BHME
+date-released: 2025-07-28
