@@ -1,8 +1,6 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Athukorala, Afshar, Cripps, Vervoort
-  given-names: Rajitha, Hadi Mohasel, Sally, R. Willem
 - family-names: Afshar
   given-names: Hadi
 - family-names: Cripps
